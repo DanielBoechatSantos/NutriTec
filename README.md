@@ -10,11 +10,12 @@ O **NutriTec** é uma aplicação desktop desenvolvida em Python para facilitar 
 
 ## 🛠️ Tecnologias Utilizadas
 - [Python](https://www.python.org/) - Linguagem principal.
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Interface gráfica (GUI).
+- [PyQT5](https://pypi.org/project/PyQt5/)PyQt5: Framework utilizado para o desenvolvimento da interface gráfica (GUI).
 - [SQLite3](https://www.sqlite.org/index.html) - Base de dados local.
+- [OS & Sys](https://pypi.org/project/os-sys/)Bibliotecas nativas para gestão de ficheiros e sistema.
 
 ## 📦 Como Executar o Projeto
 1. Certifique-se de ter o Python instalado.
 2. Instale as dependências necessárias:
    ```bash
-   pip install customtkinter
+   pip install PyQt5
