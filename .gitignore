@@ -2,5 +2,7 @@
 nutri_data.db
 build/
 dist/
+Explicação GIT.txt
+AtualizaGIT.bat
 __pycache__/
 *.spec
